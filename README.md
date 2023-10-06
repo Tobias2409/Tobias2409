@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tobias2409
 - 👀 I’m interested in Programming and GameDev
 - 🌱 I’m currently learning C# and Java
-- 📫 How to reach me: to.schiffelhumer@gmail.com
+- 📫 How to reach me: mail@tobias-schiffelhumer.at
 <!--- 💞️ I’m looking to collaborate on ...--->
 
 <!---
